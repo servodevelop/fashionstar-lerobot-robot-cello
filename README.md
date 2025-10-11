@@ -21,6 +21,6 @@ Install the package in editable mode:
 
 ```bash
 git clone https://github.com/servodevelop/fashionstar-lerobot-robot-cello.git
-cd lerobot_robot_cello
+cd fashionstar-lerobot-robot-cello
 pip install -e .
 ```
