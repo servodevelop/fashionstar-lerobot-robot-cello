@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="lerobot_robot_cello",
-    version="0.0.2",
+    version="0.0.1",
     description="LeRobot cello integration",
     author="Welt-liu",
     author_email="1994524450@qq.com",
